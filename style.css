@@ -121,6 +121,6 @@ div.landing{
 .right{
     height: 27em;
     width: 27em;
-    background: url(/img/modal.jpg) no-repeat top center/cover;
+    background: url(/modal.jpg) no-repeat top center/cover;
     border-radius: 50%;
 }
