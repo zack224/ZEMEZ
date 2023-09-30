@@ -1,0 +1,20 @@
+@media (max-width: 910px) {
+    div.landing{
+        flex-direction: column-reverse;
+    }
+    div.landing div.left{
+        max-width: 64%;
+    }
+    div.landing .right{
+        width: 45vmax;
+        height: 45vmax;
+    }
+    .nav{
+        flex-direction: column;
+        padding-top: 2vh;
+    }
+    .nav_items{
+        flex-grow: 0;
+    }
+    
+}
